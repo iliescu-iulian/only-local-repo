@@ -2,3 +2,6 @@ This file
 ====================
 is indended to test
 --------------------
+what we can change
+====================
+line separators added
